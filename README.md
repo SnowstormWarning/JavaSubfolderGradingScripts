@@ -34,7 +34,7 @@ MASS_COMP_JAVA_SOURCE.bat
 
 This batch script will go through each subfolder in the directory of where the bat file is located (NOTE: THIS INCLUDES SUBFOLDERS OF SAID SUBFOLDERS), and it will attempt to compile the java source file of the specified name you input. Make sure you supply it with a name that does not contain the file type, ie, "Proj1" instead of "Proj1.java". It is fine if there are subfolders, or students, who don't have a file. The javac command ran on the subfolder will simply say it failed to find the file. If the compilation is successful, there will be no output as is normal for javac.
 
-### General Grading Strategem 
+### General Grading Stratagem 
 
 1. Create student subfolders (if they do not exist already) (see above).
 
